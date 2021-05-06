@@ -11,7 +11,8 @@
  
  
 
-# 4) Make sure that you are building in x86 and in debug mode.
+
+4) Make sure that you are building in x86 and in debug mode.
 
 I have included the entire SFML library in with the files. 
 This is a relatively reasonable sized download but doing this allows me to share the solution with others in a simpler way.
