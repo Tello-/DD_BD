@@ -15,12 +15,18 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="main.cpp">
+    <ClCompile Include="..\DD_BD\main.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <Image Include="gloves.jpg">
+    <Image Include="..\DD_BD\fg.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\DD_BD\bg.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\DD_BD\collmap.png">
       <Filter>Resource Files</Filter>
     </Image>
   </ItemGroup>
