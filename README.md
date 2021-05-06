@@ -1,13 +1,13 @@
 # DD_BD
 
 
-# 1) Clone Repo
+ 1) Clone Repo
 
-# 2) Open .sln in Visual Studio (windows)
+ 2) Open .sln in Visual Studio (windows)
 
-# 3) Set whichever project you'd like to launch as "startup project"
+ 3) Set whichever project you'd like to launch as "startup project"
   
-  ## This can be done in the solution explorer by right-clicking the desired project and click "set as startup"
+   This can be done in the solution explorer by right-clicking the desired project and click "set as startup"
  
  
 
